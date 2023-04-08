@@ -1,0 +1,10 @@
+all_results/
+models/
+data/
+Figures/
+last_version/
+paper/
+__pycache__/
+.ipynb_checkpoints/
+New_folder/
+Old_Code/
